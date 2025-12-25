@@ -102,7 +102,7 @@ const Page2 = () => {
                             <div className='w-full h-[45%] p-5 bg-white/30 backdrop-blur-15xl rounded-xl text-white '>
                                <h1 className='text-xl mb-4 uppercase'>Eco-friendly</h1>
                                <div className='flex items-center justify-between  '>
-                                <p className='text-sm  w-[120] text-white/40'>Adopting eco-friendly habits is essential for planetary health, involving simple daily <br /> changes like reducing plastic, conserving water, and minimizing energy use. These <br /> actions reduce carbon footprints and support sustainability.</p>
+                                <p className='text-sm  w-[120] text-white/40'>Adopting eco-friendly habits is essential for planetary health, involving simple daily  changes like reducing plastic, conserving water, and minimizing energy use. These actions reduce carbon footprints and support sustainability.</p>
                                 <h1 className='mt-6 text-sm text-white/70 hover:text-white cursor-pointer flex items-center gap-2'> <span className='w-10 h-10 bg-white/10 backdrop-blur-xl text-2xl rounded-4xl flex items-center justify-center'><GoArrowUpRight /></span>LARN MORE </h1>
                                </div>
                             </div>
