@@ -1,6 +1,8 @@
 import React from 'react'
 import { GoArrowUpRight } from "react-icons/go";
+
 import { IoIosArrowRoundDown } from "react-icons/io";
+
 const Page2 = () => {
   return (
     <>
