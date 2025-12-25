@@ -72,7 +72,7 @@ const Page2 = () => {
                             <div className='w-full h-[45%] p-5 bg-white/30 backdrop-blur-15xl rounded-xl text-white mb-5'>
                                <h1 className='text-xl mb-4 uppercase'>Independency</h1>
                                <div className='flex items-center justify-between '>
-                                <p className='text-sm mb-4 w-[120] text-white/40'>An independent designer is a creative professional who works autonomously,<br /> shaping ideas into visual, functional, or experiential designs without being tied to a <br /> single brand or company. Independence allows designers to explore their personal <br /> style, experiment with new concepts, and take full ownership of their creative <br /> decisions.</p>
+                                <p className='text-sm mb-4 text-white/40'>An independent designer is a creative professional who works autonomously,<br /> shaping ideas into visual, functional, or experiential designs without being tied to a <br /> single brand or company. Independence allows designers to explore their personal <br /> style, experiment with new concepts, and take full ownership of their creative <br /> decisions.</p>
                                 <h1 className='mt-6 text-sm text-white/70 hover:text-white cursor-pointer flex items-center gap-2'> <span className='w-10 h-10 bg-white/10 backdrop-blur-xl text-2xl rounded-4xl flex items-center justify-center'><GoArrowUpRight /></span>LARN MORE </h1>
                                </div>
                             </div>
@@ -80,7 +80,7 @@ const Page2 = () => {
                             <div className='w-full h-[45%] p-5 bg-white/30 backdrop-blur-15xl rounded-xl text-white '>
                                <h1 className='text-xl mb-4 uppercase'>Exclusive & uniquity</h1>
                                <div className='flex items-center justify-between  '>
-                                <p className='text-sm  w-[120] text-white/40'>Exclusivity and uniqueness define creations that stand apart from the ordinary. They <br /> reflect individuality, careful craftsmanship, and thoughtful design choices that cannot <br /> be easily replicated. Such qualities add value, create emotional connection, and make <br /> each piece feel special, personal, and timeless rather than mass-produced or trend- <br />driven.</p>
+                                <p className='text-sm   text-white/40'>Exclusivity and uniqueness define creations that stand apart from the ordinary. They <br /> reflect individuality, careful craftsmanship, and thoughtful design choices that cannot <br /> be easily replicated. Such qualities add value, create emotional connection, and make <br /> each piece feel special, personal, and timeless rather than mass-produced or trend- <br />driven.</p>
                                 <h1 className='mt-6 text-sm text-white/70 hover:text-white cursor-pointer flex items-center gap-2'> <span className='w-10 h-10 bg-white/10 backdrop-blur-xl text-2xl rounded-4xl flex items-center justify-center'><GoArrowUpRight /></span>LARN MORE </h1>
                                </div>
                             </div>
@@ -94,7 +94,7 @@ const Page2 = () => {
                                <h1 className='text-xl mb-4 uppercase'>High Quality </h1>
 
                                <div className='flex items-center justify-between '>
-                                <p className='text-sm mb-4 w-[120] text-white/40'>A high-quality paragraph is unified (focused on one idea), coherent (sentences flow <br /> logically with transitions), and well-developed (supported by specific <br /> details/evidence), usually beginning with a clear topic sentence that guides the reader <br /> through fully explained points.</p>
+                                <p className='text-sm mb-4  text-white/40'>A high-quality paragraph is unified (focused on one idea), coherent (sentences flow <br /> logically with transitions), and well-developed (supported by specific <br /> details/evidence), usually beginning with a clear topic sentence that guides the reader <br /> through fully explained points.</p>
                                 <h1 className='mt-6 text-sm text-white/70 hover:text-white cursor-pointer flex items-center gap-2'> <span className='w-10 h-10 bg-white/10 backdrop-blur-xl text-2xl rounded-4xl flex items-center justify-center'><GoArrowUpRight /></span>LARN MORE </h1>
                                </div>
                             </div>
@@ -102,7 +102,7 @@ const Page2 = () => {
                             <div className='w-full h-[45%] p-5 bg-white/30 backdrop-blur-15xl rounded-xl text-white '>
                                <h1 className='text-xl mb-4 uppercase'>Eco-friendly</h1>
                                <div className='flex items-center justify-between  '>
-                                <p className='text-sm  w-[120] text-white/40'>Adopting eco-friendly habits is essential for planetary health, involving simple daily  changes like reducing plastic, conserving water, and minimizing energy use. These actions reduce carbon footprints and support sustainability.</p>
+                                <p className='text-sm  text-white/40'>Adopting eco-friendly habits is essential for planetary health, involving simple daily  changes like reducing plastic, conserving water, and minimizing energy use. These actions reduce carbon footprints and support sustainability.</p>
                                 <h1 className='mt-6 text-sm text-white/70 hover:text-white cursor-pointer flex items-center gap-2'> <span className='w-10 h-10 bg-white/10 backdrop-blur-xl text-2xl rounded-4xl flex items-center justify-center'><GoArrowUpRight /></span>LARN MORE </h1>
                                </div>
                             </div>
